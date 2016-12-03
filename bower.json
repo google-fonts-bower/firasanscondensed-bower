@@ -1,0 +1,17 @@
+{
+    "name": "firasanscondensed-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Carrois Apostrophe"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/firasanscondensed-bower.git"
+    },
+    "description": "Fira Sans Condensed font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
